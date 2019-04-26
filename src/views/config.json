@@ -1,0 +1,12 @@
+{
+    "index" : {
+        "htmlWebpackConfig" : {
+            "title" : "ddd"
+        }
+    },
+    "home" : {
+        "htmlWebpackConfig" : {
+            "title" : "主页"
+        }
+    }
+}
